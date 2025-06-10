@@ -1,0 +1,29 @@
+.about-container {
+    padding: 30px;
+   
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .about-header {
+    color: #ffffff;
+    font-size: 3.5rem;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .about-paragraph {
+    color: #ffffff;
+    line-height: 1.6;
+    font-size: 2.1rem;
+    margin-bottom: 15px;
+  }
+    body {
+    background-image: url('D:\React project\OnlineShop\src\assets\__צילום מסך_24-3-2025_145733_.jpeg'); /* ודא שהנתיב נכון */
+    background-size: cover; /* מכסה את כל הדף */
+    background-position: center; /* ממקם את התמונה במרכז */
+    background-repeat: no-repeat; /* מונע חזרה של התמונה */
+
+}

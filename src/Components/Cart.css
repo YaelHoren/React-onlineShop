@@ -1,0 +1,39 @@
+.table-container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.table-header {
+    background-color: #47a2b9;
+}
+
+.table-header-cell {
+    color: white;
+}
+#a{
+    color: #47a2b9;
+    font-size: 30px;
+    font-family: cursive;
+}
+#b{
+    color: aliceblue;
+    font-size: 25px;
+    font-family: cursive;
+}
+#c{
+    color: aliceblue;
+    font-size: 555px; 
+}
+.form-group {
+    display: flex;
+    align-items: flex-start; /* או align-items: center; אם אתה רוצה שיישרו במרכז */
+}
+
+.form-group img {
+    width: 50px;
+    height: 50px;
+    margin-right: 8px;
+}
+#d{
+    font-size: 555px; 
+}

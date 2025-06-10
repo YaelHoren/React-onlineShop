@@ -1,0 +1,21 @@
+.description {
+    overflow: hidden;
+    background-color: rgba(255, 255, 255, 0.8);
+    /* Hide the overflow */
+    display: -webkit-box;
+    /* Create a flexible box for the description */
+    -webkit-box-orient: vertical;
+    /* Set the box orientation to vertical */
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    /* Limit the description to 3 lines */
+    height: 4.5em;
+    /* Adjust the height as necessary */
+}
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
