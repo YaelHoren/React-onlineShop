@@ -1,12 +1,27 @@
-# React + Vite
+# Online Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+**Online Store** is an e-commerce platform specializing in the latest tech gadgets and accessories. Built using React with Redux for state management and React Router for navigation, this application fetches product data from an external API, allowing users to browse and add items to their shopping cart.
 
-Currently, two official plugins are available:
+## Features
+- Display a list of tech gadgets
+- Add items to a shopping cart
+- View and manage the shopping cart
+- Navigate between pages (Home, Products, Cart, About)
+- Checkout with a confirmation popup
+- Loading animation for product fetching
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React
+- Redux
+- React Router
+- Material UI (MUI) for UI components
+- Fetch API
+- CSS
 
-## Expanding the ESLint configuration
+## Getting Started
+To run this project locally:
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/online-store.git
