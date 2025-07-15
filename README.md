@@ -1,5 +1,13 @@
 # Online Store
 
+## 👥 Collaborators
+
+This project was developed collaboratively by:
+- [Miriam Bradpiece](https://github.com/MiriamBradpiece)  
+- [Yael Horen](https://github.com/YaelHoren)
+
+We worked together on building a virtual store application in React.
+
 ## Overview
 **Online Store** is an e-commerce platform specializing in the latest tech gadgets and accessories. Built using React with Redux for state management and React Router for navigation, this application fetches product data from an external API, allowing users to browse and add items to their shopping cart.
 
